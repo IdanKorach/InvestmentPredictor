@@ -1,2 +1,6 @@
 ipykernel
 python-dotenv
+torch
+torchvision
+matplotlib
+numpy
